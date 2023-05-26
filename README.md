@@ -8,7 +8,7 @@
 <br/> 
 <br/> 
 <p align="left">
-  ----
+ 
 ## 🚀 Minhas Skills 
   </p>
   <p align="left">
