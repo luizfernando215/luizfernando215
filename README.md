@@ -6,8 +6,7 @@
   Amante de tecnologias, mangás, cubo mágico e café.
 </p>
 <br/> 
-<br/> 
-<p align="left">
+
  
 ## 🚀 Minhas Skills 
   </p>
