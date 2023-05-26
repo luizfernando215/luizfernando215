@@ -5,7 +5,8 @@
   Desenvolvedor Mobile na COOPERATIVA REGIONAL DE CAFEICULTORES EM GUAXUPE LTDA - COOXUPE.<br/> 
   Amante de tecnologias, mangás, cubo mágico e café.
 </p>
-
+<br/> 
+<br/> 
 <p align="left">
   ----
 ## 🚀 Minhas Skills 
