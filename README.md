@@ -2,7 +2,7 @@
   <h2>💜 Olá, meu nome é <strong>Luiz Fernando!</strong></h2>
   </P>
 <p align="left">   
-  Desenvolvedor Mobile na COOPERATIVA REGIONAL DE CAFEICULTORES EM GUAXUPE LTDA - COOXUPE.<br/> 
+  Desenvolvedor Mobile na <a href="https://www.cooxupe.com.br">Cooxupé</a>.<br/> 
   Amante de tecnologias, mangás, cubo mágico e café.
 </p>
 <br/> 
