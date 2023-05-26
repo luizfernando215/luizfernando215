@@ -4,6 +4,7 @@
 <p align="left">   
   Desenvolvedor Mobile na <a href="https://www.cooxupe.com.br">Cooxupé</a>.<br/> 
   Amante de tecnologias, mangás, cubo mágico e café.
+  - 🌱 &nbsp; Aprendendo mais sobre **Flutter**.
 </p>
 <br/> 
  
