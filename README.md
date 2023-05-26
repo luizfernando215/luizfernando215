@@ -1,10 +1,12 @@
 <p>
-  <h2>💜 Olá, meu nome é <strong>Luiz Fernando!</strong></h2>
-  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-  </P>
-<p align="left">   
+  <h2>💜 Olá, meu nome é <strong>Luiz Fernando!</strong></h2>    
+   
   Desenvolvedor Mobile na <a href="https://www.cooxupe.com.br">Cooxupé</a>.<br/> 
   Amante de tecnologias, mangás, cubo mágico e café.<br/> 
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
+- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.  
   - 🌱 &nbsp; Aprendendo mais sobre **Flutter**.
 </p>
 <br/> 
