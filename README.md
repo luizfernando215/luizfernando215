@@ -31,7 +31,7 @@
 <br/>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 </p>
 
 <p align="left">
