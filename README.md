@@ -1,13 +1,10 @@
 <p>
   <h2>💜 Olá, meu nome é <strong>Luiz Fernando!</strong></h2>    
-   
-  Desenvolvedor Mobile na <a href="https://www.cooxupe.com.br">Cooxupé</a>.<br/> 
-  Amante de tecnologias, mangás, cubo mágico e café.<br/> 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.  
-  - 🌱 &nbsp; Aprendendo mais sobre **Flutter**.
+     
+- 🤔 &nbsp; Amante de tecnologias, mangás, cubo mágico e café.
+- 🎓 &nbsp; Estudando **Flutter** na <a href="[link da sua faculdade](https://academiadoflutter.com.br)">Academia do Flutter</a>.
+- 💼 &nbsp; Trabalhando como Desenvolvedor Mobile na <a href="https://www.cooxupe.com.br">Cooxupé</a>.<br/> 
+- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.    
 </p>
 <br/> 
  
