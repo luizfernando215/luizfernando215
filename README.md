@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Amante de tecnologias, mangás, cubo mágico e café.
 - 🎓 &nbsp; Estudando **Flutter** na <a href="[link da sua faculdade](https://academiadoflutter.com.br)">Academia do Flutter</a>.
 - 💼 &nbsp; Trabalhando como Desenvolvedor Mobile na <a href="https://www.cooxupe.com.br">Cooxupé</a>.<br/> 
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.    
+- 🌱 &nbsp; Sempre apredendo e me aprimorando...    
 </p>
 <br/> 
  
