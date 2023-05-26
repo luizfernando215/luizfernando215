@@ -40,9 +40,7 @@
   <a href="https://wa.me/5519981624889" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a> </p>  
 </p>
-
-
-
+<br/>
   
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=luizfernando215&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 </div>
