@@ -1,7 +1,7 @@
 <p>
   <h2>💜 Olá, meu nome é <strong>Luiz Fernando!</strong></h2>    
      
-- 🤔 &nbsp; Amante de tecnologias, mangás, cubo mágico e café.
+- 🤔 &nbsp; Amante de tecnologias, animes, cubo mágico e café.
 - 🎓 &nbsp; Estudando **Flutter** na <a href="[link da sua faculdade](https://academiadoflutter.com.br)">Academia do Flutter</a>.
 - 💼 &nbsp; Trabalhando como Desenvolvedor Mobile na <a href="https://www.cooxupe.com.br">Cooxupé</a>.<br/> 
 - 🌱 &nbsp; Sempre apredendo e me aprimorando...    
